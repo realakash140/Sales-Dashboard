@@ -25,7 +25,7 @@ Welcome to the **Sales Dashboard**, an interactive tool designed to provide valu
 
 1. Clone the repository to your local machine:
     ```bash
-    git clone https://github.com/AdityaSrivastavDS/Sales-Dashboard
+    git clone https://github.com/realakash140/Sales-Dashboard
     ```
 
 2. Open the sales dashboard file (`Sales Dashboard.pbix` or relevant file) in [Microsoft Power BI Desktop](https://powerbi.microsoft.com/desktop/).
